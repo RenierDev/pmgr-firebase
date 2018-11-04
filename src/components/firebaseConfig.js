@@ -1,8 +1,8 @@
 export default {
-  apiKey: 'AIzaSyBh00RXoFRm0H9U6UE37tr703lA9_e0-io',
-  authDomain: 'vuedev-69bff.firebaseapp.com',
-  databaseURL: 'https://vuedev-69bff.firebaseio.com',
-  projectId: 'vuedev-69bff',
-  storageBucket: '',
-  messagingSenderId: '124724874177'
+  apiKey: "AIzaSyA03-w1xiigbVsKz1GJUtMyW9Dh1kJcM-4",
+  authDomain: "pmgr-e3bab.firebaseapp.com",
+  databaseURL: "https://pmgr-e3bab.firebaseio.com",
+  projectId: "pmgr-e3bab",
+  storageBucket: "pmgr-e3bab.appspot.com",
+  messagingSenderId: "357768564255"
 };
